@@ -1,2 +1,2 @@
 # lnltegraloftugas2
-![SS Konvolusi](SS Contoh_Konvolusi.png)
+![SS Konvolusi](SS_Contoh_Konvolusi.png)
